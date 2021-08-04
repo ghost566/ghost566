@@ -6,14 +6,14 @@
   <img align="left" alt="Ghost | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=ghost566.ghost566)
 
 <br />
 
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ghost566/ghost566/main/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](ghostmasr12@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
