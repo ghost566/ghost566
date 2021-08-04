@@ -20,7 +20,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **How much experience on coding languages:**
 <!--START_SECTION:waka-->
 ```text
 Python       33 hrs 10 mins  ████████████████████████▒   97.23 % 
